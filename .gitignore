@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pasta do curso de python
+
+Python-Data-Science-and-Machine-Learning-Bootcamp/
